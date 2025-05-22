@@ -64,7 +64,7 @@ npm start
 
 **Burhan Mustafa**  
 📫 [burhanmustafa808@gmail.com](mailto:burhanmustafa808@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) 
+🌐 [LinkedIn](https://www.linkedin.com/in/burhan-mustafa-15899319a/)
 🧠 Built with love and late-night debugging.
 
 ---
