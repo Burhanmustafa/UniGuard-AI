@@ -8,7 +8,7 @@ import joblib
 
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, supports_credentials=True)
 
 # Load dataset and train models
 df = pd.read_csv("UniGuard_student_data.csv")
