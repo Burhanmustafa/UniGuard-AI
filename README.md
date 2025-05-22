@@ -60,6 +60,13 @@ npm start
 
 ---
 
+## 🔍 Demo
+
+![UniGuard Demo](media/Dark%20Mode.png)
+![Light Mode](media/Light%20Mode.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Burhan Mustafa**  
