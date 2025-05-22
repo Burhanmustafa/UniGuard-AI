@@ -1,6 +1,8 @@
 # 🧠 UniGuard AI – Student Burnout Risk Predictor
 
-**UniGuard** is a full-stack machine learning app that predicts student burnout using logistic regression and anomaly detection. Designed with a slick UI and dynamic visuals to showcase technical and design polish.
+**UniGuard** is a full-stack AI-powered web application that helps students identify their risk of academic burnout through predictive analytics and anomaly detection. Built with a Flask + React stack, the app leverages Logistic Regression and Isolation Forests to analyze behavior patterns and flag early signs of burnout.
+
+Designed for both technical rigor and visual appeal, UniGuard features a sleek responsive UI with dynamic progress animations, a dark/light mode toggle, and a clean, intuitive form interface.
 
 ---
 
